@@ -37,7 +37,8 @@ Mit SQL-Abfragen und einem Report zur **Umsatzanalyse pro Kunde**.
   (keine verwaisten Datensätze möglich)
 
 📎 Beziehungsdiagramm:  
-➡️ `docs/relationships.png`
+➡️ [Beziehungsdiagramm](docs/relationships.png)
+
 
 ---
 
