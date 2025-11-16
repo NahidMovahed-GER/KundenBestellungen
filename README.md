@@ -65,7 +65,7 @@ Mit SQL-Abfragen und einem Report zur **Umsatzanalyse pro Kunde**.
 Mit Datums-/Seitenangabe und Gesamtsumme aller Umsätze.
 
 📎 Beispielreport:  
-➡️ [docs/report_topkunden.pdf](docs/report_topkunden.pdf)
+➡️ [report_topkunden.pdf](docs/report_topkunden.pdf)
 
 ---
 
